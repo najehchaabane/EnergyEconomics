@@ -4,7 +4,10 @@
 **Repository for code and data related to the research project:**  
 **_Climate Transition Risk and ESG Sentiment Impact on Stock Markets_**
 
-This project investigates how climate transition risks and ESG sentiment influence stock market stability across European and American markets using high-frequency data. It applies advanced time series modeling techniques—including TVP-VAR and Quantile Coherency—to uncover the transmission of financial instability during periods of negative sentiment and market downturns.
+This project investigates how climate transition risks and ESG sentiment influence stock market stability
+across European and American markets using high-frequency data. It applies advanced time series modeling 
+techniques—including TVP-VAR and Quantile Coherency—to uncover the transmission of financial instability 
+during periods of negative sentiment and market downturns.
 
 ## 📰 Publication  
 This research is published in *Energy Economics*, a Q1-ranked peer-reviewed journal.
