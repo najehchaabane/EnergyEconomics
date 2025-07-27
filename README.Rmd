@@ -1,5 +1,5 @@
 
-## README
+# README
 
 **Repository for code and data related to the research project:**  
 **_Climate Transition Risk and ESG Sentiment Impact on Stock Markets_**
